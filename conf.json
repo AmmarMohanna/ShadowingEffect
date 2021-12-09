@@ -1,0 +1,13 @@
+{
+    "weights"         : "imagenet",
+  
+    "data_path"      : "data",
+    "model_path"      : "model_data",
+
+    "classes"         : 2,
+    "batch_size"      : 30,
+    "epochs"          : 100,
+    "n_splits"        : 5,
+    "patience"        : 10,
+    "test_validation_split": 0.5
+}
