@@ -19,5 +19,4 @@ dataset_folder\
 ## How to use?
 
 1. Configure the parameters in config.json
-2. Train the model using `python train.py`
-3. Evaluate the model on test dataset using: `python test.py`
+2. Train and evaluate the model using `python train.py`
